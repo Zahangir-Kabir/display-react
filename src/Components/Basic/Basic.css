@@ -1,0 +1,22 @@
+.course-container{
+    will-change: 1000px;
+    display: flex;
+    margin-left: 50px;
+}
+.course-item{
+   
+    width: 800px;
+    border-right: 1px solid lightgray;
+    padding-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+   
+}
+.course-item h2{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid lime;
+}
+
+.enroll-section{
+    margin-left: 20px;
+}
