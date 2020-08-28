@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/display-react/static/css/main.c74bc736.chunk.css",
+    "main.js": "/display-react/static/js/main.9e4ffe27.chunk.js",
+    "main.js.map": "/display-react/static/js/main.9e4ffe27.chunk.js.map",
+    "runtime-main.js": "/display-react/static/js/runtime-main.ecafb552.js",
+    "runtime-main.js.map": "/display-react/static/js/runtime-main.ecafb552.js.map",
+    "static/css/2.11829350.chunk.css": "/display-react/static/css/2.11829350.chunk.css",
+    "static/js/2.bbfc7a15.chunk.js": "/display-react/static/js/2.bbfc7a15.chunk.js",
+    "static/js/2.bbfc7a15.chunk.js.map": "/display-react/static/js/2.bbfc7a15.chunk.js.map",
+    "index.html": "/display-react/index.html",
+    "precache-manifest.430615a5e706d4996c90dd4047ce05d6.js": "/display-react/precache-manifest.430615a5e706d4996c90dd4047ce05d6.js",
+    "service-worker.js": "/display-react/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/display-react/static/css/2.11829350.chunk.css.map",
+    "static/css/main.c74bc736.chunk.css.map": "/display-react/static/css/main.c74bc736.chunk.css.map",
+    "static/js/2.bbfc7a15.chunk.js.LICENSE.txt": "/display-react/static/js/2.bbfc7a15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecafb552.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.bbfc7a15.chunk.js",
+    "static/css/main.c74bc736.chunk.css",
+    "static/js/main.9e4ffe27.chunk.js"
+  ]
+}
